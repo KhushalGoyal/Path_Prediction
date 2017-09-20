@@ -5,7 +5,3 @@ Machine Learning Algorithm to identify whether a vehicle is going to a correct p
 Python
 Machine Learning
 ```
-
-###Kindly take reference of the image given below
-
-![Image](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
